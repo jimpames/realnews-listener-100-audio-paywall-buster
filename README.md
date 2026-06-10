@@ -1,5 +1,8 @@
 # RealNews Listener 100 percent paywall buster 
 
+
+<img width="3168" height="1344" alt="realnews-listener" src="https://github.com/user-attachments/assets/3ad14e99-4aa4-4665-82cf-2d113ea62ace" />
+
 **Information, Unlocked.** A GPU-accelerated, fully offline-voiced RSS news reader for Windows.
 
 RealNews Listener pulls headlines from 30+ news feeds across the political spectrum — left, center, and right, side by side — and reads them aloud in studio-quality neural voices rendered locally on your own GPU. No subscriptions. No accounts. No cloud TTS. No tracking. Your news, your hardware, your ears.
