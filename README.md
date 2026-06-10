@@ -9,6 +9,10 @@
 
 # RealNews Listener 100 percent paywall buster 
 
+demo video w sound
+
+https://youtu.be/ar7T6n3pUKM?si=rZgcKMGxyC32rXjk
+
 
 
 **Information, Unlocked.** A GPU-accelerated, fully offline-voiced RSS news reader for Windows.
