@@ -14,6 +14,8 @@ make c:\news and extract it there or anywhere really
 
 dropbox with zip, 700MB, way too big for github:
 
+- it will say TOO BIG TO LOAD
+- - IGNORE THAT and PRESS DOWNLOAD
 
 https://www.dropbox.com/scl/fi/ygi18guaw428ubbkemprc/real-news-listener-100-percent-paywall-buster.zip?rlkey=6nm35zswek0imqqaz1rluizkr&st=vdr42zgf&dl=0
 
