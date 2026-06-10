@@ -1,4 +1,4 @@
-<img width="4128" height="1024" alt="realnews-listener" src="https://github.com/user-attachments/assets/92ac15e1-9a9b-44e6-8388-dea4d706f2bc" />
+<img width="3168" height="1344" alt="realnews-listener" src="https://github.com/user-attachments/assets/d73a531b-757f-4bdd-97f1-e8765139413d" />
 
 
 realnews listener 100% audio paywall buster
