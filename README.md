@@ -1,9 +1,21 @@
 <img width="3168" height="1344" alt="realnews-listener" src="https://github.com/user-attachments/assets/3ad14e99-4aa4-4665-82cf-2d113ea62ace" />
 
+designer / architect: jim (j p ) ames
+
+coders:
+
+SUPERGROK - basic design
+
+CLAUDE FABLE - final product
+
 
 <img width="1197" height="916" alt="fetch" src="https://github.com/user-attachments/assets/9beda935-3446-492d-a9a0-0f7657ae6f55" />
 
+11 jun 26
+
 <img width="1202" height="911" alt="listen" src="https://github.com/user-attachments/assets/26ccc80c-b587-442f-b330-18719c1eddfa" />
+
+don't like our banner? replace it...
 
 <img width="1200" height="913" alt="config-and-search" src="https://github.com/user-attachments/assets/67259f16-f4a9-424d-824d-ac11a139c62b" />
 
