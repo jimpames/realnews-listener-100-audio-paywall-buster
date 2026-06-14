@@ -8,6 +8,9 @@ SUPERGROK - basic design
 
 CLAUDE FABLE - final product
 
+14 jun 26
+
+I am pushing this to the microsoft app store today
 
 <img width="1197" height="916" alt="fetch" src="https://github.com/user-attachments/assets/9beda935-3446-492d-a9a0-0f7657ae6f55" />
 
